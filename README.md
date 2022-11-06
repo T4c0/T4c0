@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T4c0
 - 👀 I’m interested in outdoors activities, spending time with family and friends.
-- 🌱 I’m currently learning data structures, c++.
-- 💞️ I’m looking to collaborate on anything c++ and java.
+- 🌱 I’m currently learning data structures and algorithims.
+- 💞️ I’m looking to collaborate on anything JavaScript, C++, Python. 
 - 📫 How to reach me... my twitter handle is @cheesybone1
 
 <!---
