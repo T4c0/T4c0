@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T4c0
+- 👋 Hi, I’m Julian
 - 👀 I’m interested in outdoors activities, spending time with family and friends.
 - 🌱 I’m currently learning data structures and algorithims.
 - 💞️ I’m looking to collaborate on anything JavaScript, C++, Python. 
