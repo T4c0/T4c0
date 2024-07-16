@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://red-olva-45.tiiny.site](https://red-olva-45.tiiny.site)
 
-- ⚡ Fun fact **I was a boxer for 10 years**
+- ⚡ Fun fact **I was a BOXER for 10 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
